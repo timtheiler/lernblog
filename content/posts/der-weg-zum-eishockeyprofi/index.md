@@ -14,7 +14,7 @@ Als Nachwuchsspieler beim grossen SC Bern den Sprung zum Profi machen. Colin Ger
 
 Anpfiff in der PostFinance Arena in Bern. Im Rahmen der NHL Global Series Challenge spielt der SCB vor vollen Rängen gegen die Nashville Predators aus der NHL. Zwei Gymnasiasten sind auch dabei, denn so ein Spiel bekommt man in Bern nicht oft zu sehen. Die Atmosphäre im Stadion könnte nicht besser sein. Die Zuschauer freuen sich, Roman Josi und Nino Niederreiter aus der NHL hautnah spielen zu sehen. Viele von ihnen tragen Eishockeytrikots nicht nur vom SCB, sondern auch von verschiedenen NHL Clubs. Die Trikots von Josi und Niederreiter sind besonders oft vertreten.
 
-![](picture-crowd.jpg "Volle Stehplätze in der PostFinance Arena (Foto: 20 minuten)")
+![Volle Stehplätze in der PostFinance Arena (Foto: 20 minuten)](picture-crowd.jpg "Volle Stehplätze in der PostFinance Arena (Foto: 20 minuten)")
 
 ### Colin Gerber auf dem Weg zum Profi
 
