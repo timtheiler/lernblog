@@ -5,7 +5,7 @@ draft = false
 pinned = false
 image = "picture-crowd.jpg"
 description = ""
-footnotes = "Foto Bärnerbär\n\nFoto 20 Minuten"
+footnotes = "Foto Bärnerbär: https://baernerbaer.ch/sport/hoehenfluege-sind-programmiert-auf-dem-eis-und-in-der-luft/\n\nFoto 20 Minuten: https://www.20min.ch/story/ueberfuellte-stehplaetze-veraergerte-fans-muessen-partie-auf-bildschirmen-verfolgen-275600229340"
 +++
 Tim Theiler, Lukas Salvisberg
 
