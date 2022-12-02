@@ -5,8 +5,6 @@ draft = false
 pinned = false
 description = "Als Nachwuchsspieler beim grossen SC Bern den Sprung zum Profi machen. Colin Gerber hat erreicht, wovon viele Jugendliche träumen. Heute spielt er gegen die ganz Grossen aus der NHL."
 +++
-# Der Weg zum Eishockeyprofi
-
 Tim Theiler, Lukas Salvisberg
 
 ***Als Nachwuchsspieler beim grossen SC Bern den Sprung zum Profi machen. Colin Gerber hat erreicht, wovon viele Jugendliche träumen. Heute spielt er gegen die ganz Grossen aus der NHL.***
