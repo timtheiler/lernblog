@@ -5,6 +5,7 @@ draft = false
 pinned = false
 image = "picture-crowd.jpg"
 description = ""
+footnotes = "Foto Bärnerbär\n\nFoto 20 Minuten"
 +++
 Tim Theiler, Lukas Salvisberg
 
@@ -14,13 +15,13 @@ Als Nachwuchsspieler beim grossen SC Bern den Sprung zum Profi machen. Colin Ger
 
 Anpfiff in der PostFinance Arena in Bern. Im Rahmen der NHL Global Series Challenge spielt der SCB vor vollen Rängen gegen die Nashville Predators aus der NHL. Zwei Gymnasiasten sind auch dabei, denn so ein Spiel bekommt man in Bern nicht oft zu sehen. Die Atmosphäre im Stadion könnte nicht besser sein. Die Zuschauer freuen sich, Roman Josi und Nino Niederreiter aus der NHL hautnah spielen zu sehen. Viele von ihnen tragen Eishockeytrikots nicht nur vom SCB, sondern auch von verschiedenen NHL Clubs. Die Trikots von Josi und Niederreiter sind besonders oft vertreten.
 
-![Volle Stehplätze in der PostFinance Arena (Foto: 20 minuten)](picture-crowd.jpg "Volle Stehplätze in der PostFinance Arena (Foto: 20 minuten)")
+![Volle Stehplätze in der PostFinance Arena (Foto: 20 Minuten)](picture-crowd.jpg "Volle Stehplätze in der PostFinance Arena (Foto: 20 Minuten)")
 
 ### Colin Gerber auf dem Weg zum Profi
 
 Die Spieler des SC Bern und der Nashville Predators werden unter tosendem Applaus im Stadion empfangen. Mitten im Rampenlicht die beiden Schweizer Eishockeystars Roman Josi und Nino Niederreiter. Auf der Seite des SCB sticht ein energiegeladener «Hockeyaner» heraus. Es ist Colin Gerber mit der Nummer 14 auf dem Rücken. Für ihn scheint der heutige Auftritt Routine zu sein, doch das ist nicht schon immer so gewesen. Einst ist so ein Auftritt für den Profispieler bloss ein Kindheitstraum gewesen. Seine Hockeykarriere hat in seiner Heimatstadt Burgdorf begonnen. Für einen Jungen aus Burgdorf ist der SCB *der* grosse Club. Deshalb ist für Colin ein Kindheitstraum in Erfüllung gegangen, als er mit siebzehn zum ersten Mal mit der ersten Mannschaft des SCB ein NLA-Spiel bestreiten konnte. «Ich wusste, wenn ich jeden Tag so hart wie möglich trainiere und diszipliniert meine Ziele verfolge, dann werde ich irgendeinmal belohnt», fasst Gerber die Einstellung zusammen, mit der er sich von den Juniorenteams bis zur ersten Mannschaft hochgekämpft hat. Eishockey liegt Colin Gerber im Blut. Sein Vater Roland ist jahrelang Torhüter in der National Liga A, der höchsten Schweizer Eishockey Liga, unter anderem auch beim SC Bern, gewesen. Daher erstaunt es nicht, dass auch Colin von der Leidenschaft für Eishockey gepackt worden ist. Seinen Vater hat er leider nie im Stadion bewundern können, weil dieser acht Jahre vor seiner Geburt vom Spitzensport zurückgetreten ist. Nichtsdestotrotz ist er bereits als Kind oft mit der Familie in Bern Eishockeyspiele anschauen gegangen. Der Gedanke, einmal selbst vor so vielen Zuschauern in die Arena einzulaufen, hat ihn schon als Kind motiviert, hart zu trainieren, um irgendeinmal den Sprung zum Profi zu schaffen.
 
-![Colin Gerber beim Verteidigen (Foto:(https://baernerbaer.ch/sport/hoehenfluege-sind-programmiert-auf-dem-eis-und-in-der-luft/))](picture-colin.jpg "Colin Gerber beim Verteidigen (Foto: Bärnerbär) ")
+![Colin Gerber beim Verteidigen (Foto: Bärnerbär)](picture-colin.jpg "Colin Gerber beim Verteidigen (Foto: Bärnerbär) ")
 
 {{<box>}}
 Colin Gerber spielt als Verteidiger in der ersten Mannschaft des SC Bern. Seine Leidenschaft fürs Eishockey hat, als er bei seinem Jugendclub EHC Burgdorf gespielt hat, begonnen. Mit 11 Jahren hat er erstmals Probetrainings beim SCB absolvieren dürfen und hat danach zu den SCB-Junioren gewechselt. Mit 17 hat er sich seinen Kindheitstraum erfüllt: In der NLA zu spielen. Der heute 24-Jährige hat 2017, mit nur 19 Jahren, einen Profi-Vertrag beim SCB unterschrieben. Colin Gerber ist mit seinen 191 cm und 94 kg eine wichtige Stütze der Mannschaft.
