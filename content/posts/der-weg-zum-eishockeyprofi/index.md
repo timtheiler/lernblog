@@ -4,7 +4,7 @@ date = "2022-12-02"
 draft = false
 pinned = false
 image = "picture-crowd.jpg"
-description = "Als Nachwuchsspieler beim grossen SC Bern den Sprung zum Profi machen. Colin Gerber hat erreicht, wovon viele Jugendliche träumen. Heute spielt er gegen die ganz Grossen aus der NHL."
+description = ""
 +++
 Tim Theiler, Lukas Salvisberg
 
