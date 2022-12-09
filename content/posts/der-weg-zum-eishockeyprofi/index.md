@@ -3,6 +3,7 @@ title = "Der Weg zum Eishockeyprofi"
 date = "2022-12-02"
 draft = false
 pinned = true
+tags = ["deutsch", "reportage"]
 image = "picture-colin.jpg"
 description = "Reportage über den Weg eines Eishockeyprofis\n"
 footnotes = "Foto Bärnerbär: https://baernerbaer.ch/sport/hoehenfluege-sind-programmiert-auf-dem-eis-und-in-der-luft/\n\nFoto 20 Minuten: https://www.20min.ch/story/ueberfuellte-stehplaetze-veraergerte-fans-muessen-partie-auf-bildschirmen-verfolgen-275600229340"
